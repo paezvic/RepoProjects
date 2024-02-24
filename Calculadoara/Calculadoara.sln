@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadoara", "Calculadoara\Calculadoara.csproj", "{4E0438F8-2D2F-4463-A00D-25132B472E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0438F8-2D2F-4463-A00D-25132B472E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0438F8-2D2F-4463-A00D-25132B472E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0438F8-2D2F-4463-A00D-25132B472E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0438F8-2D2F-4463-A00D-25132B472E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2872F6A5-F768-4A1C-8D68-891327C8CC0F}
+	EndGlobalSection
+EndGlobal
